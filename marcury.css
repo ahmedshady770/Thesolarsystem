@@ -1,0 +1,35 @@
+*{
+    margin:0 ;    padding:0 ;
+}
+section{
+    background:linear-gradient(rgb(0, 255, 128) , rgb(96, 14, 202));
+}
+p{
+    font-size: 3vh;
+    text-align: center;
+    font-weight: 450;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+h1{
+    text-align:center;
+    border-radius: 30px;
+    background-color: rgba(255, 0, 255, 0.5);
+    color: gold;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    padding: left 5000px; ;
+    font-size:5vh;
+}
+h1:hover{
+        color: cadetblue;
+        background-color: coral;
+    }
+    
+
+div :hover{
+    color: black;
+transform: scale(1.2);
+
+}
